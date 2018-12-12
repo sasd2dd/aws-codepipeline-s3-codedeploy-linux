@@ -1,2 +1,3 @@
 #!/bin/bash
+# Execute a pre build cleanup command
 rm -f /var/www/html/index.html
